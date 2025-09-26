@@ -14,3 +14,8 @@ This study introduces the multilayer modular fusion graph attention network (MMF
 We developed a new AI approach to predicting and interpreting infection risk during disease outbreaks by examining how individuals’ daily social environ¬ments overlap, including personal contacts, households, and community spac¬es such as schools and workplaces. Unlike traditional models that treat these interactions as a simple whole, our method preserves unique structure of each social layer before integrating them. This layered approach allows us to capture the complexity of how infections spread in real life. Our model was tested on public health surveillance data from COVID-19 outbreak in Houston, Texas, U.S., and was found to predict infection risk with high accuracy, outperforming existing methods. The key factors influencing risk included the size of households, the number of close contacts, and affiliation with education settings. Our findings demonstrate how infections propagate through both tight-knit groups and the key bridging roles of individuals who connect multiple social circles. This understand¬ing offers public health officials a powerful tool to target interventions effectively, enabling effective allocation of limited resources for testing and contact tracing, consequently improving outbreak control and reducing avoidable disruption.
 
 [Article URL]()
+
+-----
+
+### License
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](./LICENSE) file for details.
