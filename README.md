@@ -1,6 +1,7 @@
 # Multilayer modular fusion graph attention network (MMF-GAT) for epidemic prediction
 
-This repository contains the Python code for the article ,"MFF-GAT_GCN_comments.ipynb", for building and applying the MMF-GAT model. 
+This repository contains the Python codes for the article
+* MFF-GAT_GCN_comments.ipynb: building and applying the GNN, GAT, and MMF-GAT models
 
 ### DOI
 10.1371/journal.pcsy.0000070
